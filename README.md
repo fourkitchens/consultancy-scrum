@@ -1,6 +1,3 @@
-consultancy-scrum
-=================
-
 #Four Kitchen's guide to scrum for consultancies
 
 Four Kitchens practices scrum, a form of agile project management. Agile scrum was developed to be used in a product development and design setting, and is most commonly used by teams on the "client side," where there is greater control over moving variables.
