@@ -1227,6 +1227,21 @@ ol li ol {
   margin-left: 1.25em;
   margin-bottom: 0; }
 
+/* Lists in body copy */
+ol.body, ul.body {
+  font-family: "Brawler", Georgia, serif;
+  font-weight: normal;
+  font-size: 1em;
+  line-height: 1.6;
+  margin-bottom: 1.25em;
+  text-rendering: optimizeLegibility;
+  list-style-position: inside; }
+ol.body li,
+ul.body li {
+  margin-bottom: 1.25em;
+  padding-left: 1em;
+  text-indent: -1em; }
+
 /* Definition Lists */
 dl dt {
   margin-bottom: 0.3em;
