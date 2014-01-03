@@ -1234,6 +1234,15 @@ dl dt {
 dl dd {
   margin-bottom: 0.75em; }
 
+/* Lists in body copy */
+ol.body, ul.body {
+  font-family: "Brawler", Georgia, serif;
+  font-weight: normal;
+  font-size: 1em;
+  line-height: 1.6;
+  margin-bottom: 1.25em;
+  text-rendering: optimizeLegibility; }
+
 /* Abbreviations */
 abbr,
 acronym {
