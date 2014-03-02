@@ -1,0 +1,4 @@
+# Ignore the following files and directories
+
+# Jekyll output
+_site
